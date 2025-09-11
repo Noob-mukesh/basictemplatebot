@@ -1,0 +1,5 @@
+pyrofork
+requests
+dnspython
+tgcrypto
+asyncio
